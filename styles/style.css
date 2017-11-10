@@ -1,6 +1,6 @@
 #container {
     color: #fff;
-    background: url('images/pexels-photo-572056.jpeg');
+    background: url('../images/pexels-photo-572056.jpeg');
     min-height: 100vh;
     background-size: cover;
     background-attachment: fixed;
