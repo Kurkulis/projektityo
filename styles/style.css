@@ -12,7 +12,8 @@ nav {
 
 #overlay {
     background-color: rgba(0, 0, 0, 0.7);
-    position: absolute;
+    position: relative;
+    margin: -15px;
     top: 0;
     left: 0;
     min-width: 100vw;
