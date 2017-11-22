@@ -1,3 +1,5 @@
+/*      !!STYLING FOR ALL OF THE PAGES!!        */
+/* CONTAINER FOR THE WHOLE PAGE BACKGROUND */
 
 #container {
     color: #fff;
@@ -11,6 +13,7 @@ nav {
     border-bottom: 2px solid #428bca;
 }
 
+/* DARK OVERLAY FOR THE BACKGROUND */
 #overlay {
     background-color: rgba(0, 0, 0, 0.65);
     position: relative;
@@ -24,6 +27,9 @@ nav {
 footer {
     border-top: 2px solid #428bca;
 }
+
+
+/*         !!STYLING FOR CONTACT PAGE ONLY!!      */
 
 #address {
     background-color: rgba(0, 0, 0, 0.2);
