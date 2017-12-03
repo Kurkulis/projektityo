@@ -1,6 +1,6 @@
 # Warehouse Software Project
 
-School project
+This is a project assignment for the orientation IT-course, the purpose of which is to create websites for Warehouse Software Oy. 
 
 ## Built With
 
